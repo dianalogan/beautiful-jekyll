@@ -21,26 +21,26 @@ image
 
 However, with an increasing amount of quality free software out there, what is it that persuades me to part with my cash – even on an affordable subscription basis?
 
-* *Sign in and trial*. Ideally, I don’t want to install anything locally, especially not for a trial. And if I do, fast and painless please.
+* **Sign in and trial**. Ideally, I don’t want to install anything locally, especially not for a trial. And if I do, fast and painless please.
 
-* *Stellar trial experience*. First impressions count. Pull out all the stops in the trial. This might not be a time to show a "subset". Show it all, and show it off.
+* **Stellar trial experience**. First impressions count. Pull out all the stops in the trial. This might not be a time to show a "subset". Show it all, and show it off.
 
-* *Great design*. I recently quit a trial after less than two minutes because the first new record I added felt like a task from 2004, not 2014.
+* **Great design**. I recently quit a trial after less than two minutes because the first new record I added felt like a task from 2004, not 2014.
 
-* *Great ecosystem*. Because I might not have a friendly account manager at my beck and call, I want a vibrant community of fellow users and experts who blog on industry topics and engage with me.
+* **Great ecosystem**. Because I might not have a friendly account manager at my beck and call, I want a vibrant community of fellow users and experts who blog on industry topics and engage with me.
 People still buy from people they like.
 
-* *Great design, again*.
+* **Great design, again**.
 This one is more about the user experience (UX) and information experience (IX) cross-over.
 The software (your company) understands the core 80% of the tasks I want to do most of the time.
 It makes sure those tasks are easy to do, and that I know how to do them.
 Do that well, and I’m prepared to cut you plenty of slack on the 20% which I occasionally have to do which are just, well, tricky.
 
-* *Trust*. I want to know that I am engaging with industry experts who know my business.
+* **Trust**. I want to know that I am engaging with industry experts who know my business.
 I expect free, vendor independent whitepapers and research.
 If I see at least some of that, it builds trust and then, yes, I am prepared to part with extra cash for premium content and services such as training.
 
-* *The odd nudge*. Even mercenary cloud customers require the equivalent of a soft sales call. A good E-marketing campaign from the moment I sign up with well-placed resources (IX cross-over again) and super-easy conversion from trial options. It works if you have the preceding six items in place. It will probably be ignored without them.
+* **The odd nudge**. Even mercenary cloud customers require the equivalent of a soft sales call. A good E-marketing campaign from the moment I sign up with well-placed resources (IX cross-over again) and super-easy conversion from trial options. It works if you have the preceding six items in place. It will probably be ignored without them.
 
 And you want all that for £9.99 a month? Well, the price point varies depending on the product. But value for money is high on my agenda. Inflation is outstripping wages for the fifth year running in the UK. Unless, weirdly, you are an undertaker – for more on that, see this fascinating report from the Office for National Statistics via the BBC.
 
