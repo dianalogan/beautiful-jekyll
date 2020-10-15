@@ -4,6 +4,9 @@ title: SaaS for cash
 subtitle: I love Software as a Service (SaaS), but how do you persuade me to hand over the cash?
 gh-repo: dianalogan/dianalogan.github.io
 gh-badge: [star, fork, follow]
+cover-img: /assets/img/saas-for-cash.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/saas-for-cash.jpg
 tags: [saas]
 comments: false
 ---
